@@ -1,0 +1,31 @@
+div#Signin {
+    border:5px #FFFFFF solid;
+    background-color:#FFFFFF;
+    width:50%;
+    transform:translateX(50%);
+}
+
+div#Signin h1{
+    text-align:center;
+}
+
+div#Signin span.error{
+    color:#FF0000;
+}
+
+div#Signin form input[type="text"],input[type="password"]{
+    width:512px;
+    height:32px;
+    font-size:32px;
+}
+
+div#Signin form input[type="submit"]{
+    height:48px;
+    font-size:32px;
+    float:right;
+}
+
+div#Signin form a button{
+    height:48px;
+    width:950px;
+}

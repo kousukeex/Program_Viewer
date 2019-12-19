@@ -1,0 +1,16 @@
+div#Content{
+    background-color:#FFFFFF;
+    width:1200px;
+    transform:translateX(20%); 
+}
+
+.Program {
+    border:2px #000000 solid;
+    background-color:rgb(253, 234, 223);
+    display:block;
+    margin-bottom:20px;
+}
+
+#Category{
+    margin-left: 5em;
+}

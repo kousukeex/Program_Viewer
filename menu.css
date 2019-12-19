@@ -1,0 +1,54 @@
+
+/*@import url(https://fonts.googleapis.com/css?family=Roboto);
+@import url(https://fonts.googleapis.com/css?family=Material+Icons);
+*/
+body {
+  background-color:rgb(47, 127, 233);
+}
+
+* {
+  font-family: Roboto, Helvetica, Arial, sans-serif;
+  margin:0px;
+  padding:0px;
+}
+
+#menu a div:first-child{
+  border-left-color:rgb(236, 201, 46);
+  border-left-width:2px;
+  border-left-style:solid;
+}
+
+#menu a div:last-child{
+  border-right-color:rgb(236, 201, 46);
+  border-right-width:2px;
+  border-right-style:solid;
+}
+
+#menu a div{
+  margin:0px;
+  display:inline-block;
+  padding:20px;
+  height:100px;
+  background-color:rgb(236, 201, 46);
+  border-style:solid;
+  border-width:2px;
+  border-color:#FFFFFF;
+  border-top-color:rgb(236, 201, 46);
+  border-top-width:2px;
+  border-top-style:solid;
+}
+
+#menu a div#profile{
+  padding: 5px;
+}
+
+#menu a div#logout{
+  padding:5px;
+}
+
+#menu a div#logo{
+  padding-left:28%;
+  padding-right:28%;
+}
+
+

@@ -1,0 +1,20 @@
+\encoding utf8
+GRANT SELECT ON "Jobs" TO "Program_Guest";
+GRANT SELECT ON "Alchol" TO "Program_Guest";
+GRANT SELECT ON "Categories" TO "Program_Guest";
+GRANT SELECT ON "UserCategories" TO "Program_Guest";
+GRANT SELECT ON "Language" TO "Program_Guest";
+GRANT SELECT ON "Extension" TO "Program_Guest";
+GRANT SELECT,INSERT,UPDATE ON "Account" TO "Program_Guest";
+GRANT SELECT,INSERT,DELETE ON "AlcholLike" TO "Program_Guest";
+GRANT SELECT,INSERT,UPDATE,DELETE ON "Program" TO "Program_Guest";
+GRANT SELECT,INSERT,DELETE ON "UserCategorisedPrograms" TO "Program_Guest";
+GRANT SELECT,INSERT ON "ProgramComment" TO "Program_Guest";
+GRANT SELECT,INSERT ON "ProgramCommentRelation" TO "Program_Guest";
+GRANT SELECT,INSERT,UPDATE,DELETE ON "Source" TO "Program_Guest";
+GRANT SELECT,INSERT,DELETE ON "ProgramRelationSource" TO "Program_Guest";
+GRANT ALL ON "Account_userid_seq" TO "Program_Guest";
+GRANT ALL ON "Categories_categoryid_seq" TO "Program_Guest";
+GRANT ALL ON "Program_programid_seq" TO "Program_Guest";
+GRANT ALL ON "Source_fileid_seq" TO "Program_Guest";
+GRANT ALL ON "UserCategories_categoryid_seq" TO "Program_Guest";

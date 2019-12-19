@@ -1,0 +1,21 @@
+div#Program{
+    background-color:#FFFFFF;
+    width:1200px;
+    transform:translateX(20%);
+}
+
+div#Source table tbody tr th{
+    background:linear-gradient(#FFFFFF, #666666);
+}
+
+div#programheader h2{
+    display:inline-block;
+}
+
+div#programheader span#author{
+    display:inline-block;
+    float:right;
+}
+div#date{
+    text-align:right;
+}

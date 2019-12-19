@@ -1,0 +1,22 @@
+div#SourceCode{
+    background-color:#FFFFFF;
+    width:1200px;
+    transform:translateX(20%);
+}
+
+#SourceView tbody tr td:first-child{
+    text-align:right;
+}
+  
+#SourceView tbody{
+  background-color:#FFFFFF;
+}
+  
+#SourceView tbody,tr,td{
+    border:2px #FFFFFF solid;
+}
+
+a#edit{
+    display:inline-block;
+    float:right;
+}

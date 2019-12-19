@@ -1,0 +1,42 @@
+div#RegisterForm{
+    border:5px #FFFFFF solid;
+    background-color:#FFFFFF;
+}
+
+div#RegisterForm p{
+   text-indent:20%;
+   line-height:2em; 
+}
+
+div#RegisterForm p[warning]{
+    color:#FF0000;
+}
+
+div#RegisterForm form input[required]{
+    background-color:rgb(234,180,211);
+}
+
+/*
+*/
+
+div#RegisterPreview{
+    border:5px #FFFFFF solid;
+    background-color:#FFFFFF;
+}
+
+div#RegisterPreview p{
+   text-indent:20%;
+   line-height:2em; 
+}
+
+div#RegisterPreview p[warning]{
+    color:#FF0000;
+}
+
+#back{
+    float:left;
+}
+
+#submit{
+    float:submit;
+}

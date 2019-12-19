@@ -1,0 +1,9 @@
+div#Editor{
+    background-color:#FFFFFF;
+    width:800px;
+    transform:translateX(50%);
+}
+
+#save{
+    margin-left:400px;
+}
