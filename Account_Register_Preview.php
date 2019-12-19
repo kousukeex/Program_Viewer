@@ -33,8 +33,8 @@
 <html>
   <head>
     <title>DartServer</title>
-    <link rel="stylesheet" href="menu.css">
-    <link rel="stylesheet" href="Account_Register.css">
+    <link rel="stylesheet" href="css/menu.css">
+    <link rel="stylesheet" href="css/Account_Register.css">
   </head>
   <body>
   <div id="menu">

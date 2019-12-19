@@ -31,8 +31,8 @@
 <html>
   <head>
     <title>DartServer</title>
-    <link rel="stylesheet" href="menu.css">
-    <link rel="stylesheet" href="Program_List.css">
+    <link rel="stylesheet" href="css/menu.css">
+    <link rel="stylesheet" href="css/Program_List.css">
   </head>
   <body>
   <?php

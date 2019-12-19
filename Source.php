@@ -25,8 +25,8 @@
 <html>
   <head>
     <title>DartServer</title>
-    <link rel="stylesheet" href="menu.css">
-    <link rel="stylesheet" href="Source.css">
+    <link rel="stylesheet" href="css/menu.css">
+    <link rel="stylesheet" href="css/Source.css">
   </head>
   <body>
   <?php
